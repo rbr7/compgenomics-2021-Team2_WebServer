@@ -17,3 +17,4 @@ Here, the group offers 5 modules for analyzing E coli genomes: genome assembly, 
 - gunicorn (for the web server gateway interface)
 - Nginx (for reverse proxy)
 - miniconda (for managing environments)
+- 
